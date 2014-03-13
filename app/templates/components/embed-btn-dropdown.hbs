@@ -1,0 +1,12 @@
+<div class="btn-group">
+  <button type="button" rel="default-embed" class="btn btn-xs btn-info" {{action 'embedItem' item.defaultReturnType}}>Embed</button>
+  <button type="button" class="btn btn-xs btn-info dropdown-toggle" data-toggle="dropdown">
+    <span class="caret"></span>
+    <span class="sr-only">Toggle Dropdown</span>
+  </button>
+  <ul class="dropdown-menu pull-right" role="menu">
+    {{#each returnType in item.returnableReturnTypes}}
+      <li><a style="text-align: left !important;" href="#" {{action 'embedItem' returnType}}>{{returnType.displayReturnType}}</a></li>
+    {{/each}}
+  </ul>
+</div>

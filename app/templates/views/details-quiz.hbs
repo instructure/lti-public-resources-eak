@@ -1,0 +1,28 @@
+<div class="above-link">
+  <div class="pull-right" style="padding-top: 5px;">{{embed-btn-dropdown action="embedItem" item=this}}</div>
+  <a href="#" {{action "goUpFolder"}} class="back_button">&laquo; browse</a>
+</div>
+
+{{{embedHref}}}
+
+<hr class="clearfix" />
+
+<div class="video data media-body">
+  <h2 class="title clearfix">
+    <span class="faux_link">{{title}}</span>
+  </h2>
+  <div class="duration">{{termCount}} terms</div>
+  <p class="meta">
+    {{#if username}}
+      created by <span class="username">{{username}}</span> /
+    {{/if}}
+    Added <time>{{createdDate}}</time>
+  </p>
+  <p class="count">
+    {{#each subject in subjects}}
+      <span class="label label-default">{{subject}}</span>
+    {{/each}}
+  </p>
+
+  <p class="description">{{description}}</p>
+</div>

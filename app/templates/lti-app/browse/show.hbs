@@ -1,0 +1,38 @@
+<div class="above-link">
+  {{#if model.parentFolder}}
+    <a href="#" {{action "goUpFolder"}}>&laquo; {{model.parentFolder}}</a>
+  {{else}}
+    {{#if showDashboard}}
+      {{#link-to "lti-apps"}}&laquo; dashboard{{/link-to}}
+    {{else}}
+      &nbsp;
+    {{/if}}
+  {{/if}}
+</div>
+
+{{#with model}}
+  {{#if isLoaded}}
+    {{#if isEmptyResults}}
+      <h5 class="text-center">There are no folders or videos available in this folder</h5>
+    {{else}}
+      <table class="table folder-table">
+        <tbody>
+        {{#each folder in folders}}
+          <tr>
+            <td style="width: 25px;"><i class="fa fa-folder"></i></td>
+            <td>{{#link-to "lti-app.browse.show" folder class="text-info"}}{{folder.title}}{{/link-to}}</td>
+          </tr>
+        {{/each}}
+        </tbody>
+      </table>
+
+      <ul id="browse-media-items">
+        {{#each item in items}}
+          {{view "li-item" item=item detailsRoute='lti-app.browse.details'}}
+        {{/each}}
+      </ul>
+    {{/if}}
+  {{/if}}
+{{else}}
+  {{ic-spinner}}
+{{/with}}

@@ -1,0 +1,938 @@
+{
+  "driver_response": {
+    "criteria": {
+      "query": "education",
+      "page": 1,
+      "content_filter": "none",
+      "sort": "relevance"
+    },
+    "next_criteria": null,
+    "items": [
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "60f374fdba394a70b4ad",
+            "url": "http://bit.ly/pk3Sxs",
+            "text": "Fun - Educational School Trips - Call American Tours & Travel",
+            "title": "Fun - Educational School Trips - Call American Tours & Travel",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "60f374fdba394a70b4ad",
+            "url": "https://www.schooltube.com/embed/60f374fdba394a70b4ad",
+            "text": "Fun - Educational School Trips - Call American Tours & Travel",
+            "title": "Fun - Educational School Trips - Call American Tours & Travel",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "60f374fdba394a70b4ad",
+        "title": "Fun - Educational School Trips - Call American Tours & Travel",
+        "description": "Let American Tours & Travel meet all your groups travel needs by customizing your next student class trip. From theme parks and national monuments, from Music Festivals to performance opportunities, our travel experts are ready to create more than just a top-of-the-line educational experience we'll create a lifetimes worth of memories. We Choose the Best of the Best for You: We work hard to ensure that every aspect of your trip from hotels, transportation, attractions, and venues meet the highest standards of excellence and quality. Hotels are routinely visited by members of the American Tours & Travel team to check for cleanliness, staff service levels, security, convenience and more. When you choose American Tours & Travel, you are choosing the best. 1-800-243-4365 Licensed, Bonded & Insured ",
+        "thumbnail_url": "http://schooltube-thumbnails.s3.amazonaws.com/c5/c3/dd/df/9c/f6/c5c3dddf-9cf6-c0e5-db1f-898f89c301e2.jpg",
+        "url": "http://bit.ly/pk3Sxs",
+        "embed_url": "https://www.schooltube.com/embed/60f374fdba394a70b4ad",
+        "duration": 102,
+        "num_views": 3688,
+        "num_likes": 0,
+        "num_comments": 0,
+        "created_date": "2009-11-12",
+        "username": "StudentGroupTravel",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "0466d5eb1f6f4ba3975f",
+            "url": "http://bit.ly/AqXdYP",
+            "text": "EVIT Early Childhood & Education Professions program in Mesa, Arizona",
+            "title": "EVIT Early Childhood & Education Professions program in Mesa, Arizona",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "0466d5eb1f6f4ba3975f",
+            "url": "https://www.schooltube.com/embed/0466d5eb1f6f4ba3975f",
+            "text": "EVIT Early Childhood & Education Professions program in Mesa, Arizona",
+            "title": "EVIT Early Childhood & Education Professions program in Mesa, Arizona",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "0466d5eb1f6f4ba3975f",
+        "title": "EVIT Early Childhood & Education Professions program in Mesa, Arizona",
+        "description": "Students will gain hands-on experience in classroom education on how to manage a classroom, facilitate learning centers and support the development of the whole child. Students participate in individual and group projects, text work, professional development activities and computer lab assignments. These skills and knowledge are then implemented at the on-site Head Start program.   Upon program completion, students are prepared to work in a childcare facility, after-school program, preschool, or pursue additional education in this field. Advanced students participate in an internship.   Education Professions: For the student who knows he or she wants to become a certified teacher, this class will give a jumpstart on training. The college prep curriculum includes a survey study of the teaching profession and educational theories of learning. Students will conduct research, create lessons, and present concepts to peers. They will also research degree programs and apply for scholarships. Each student will participate in job shadowing in a school/class of his or her choice. Students identify their philosophies and develop their leadership styles in this two-year course.",
+        "thumbnail_url": "http://schooltube-thumbnails.s3.amazonaws.com/23/3b/1d/8a/3b/1d/233b1d8a-3b1d-11e1-aef4-00188b41f993.jpg",
+        "url": "http://bit.ly/AqXdYP",
+        "embed_url": "https://www.schooltube.com/embed/0466d5eb1f6f4ba3975f",
+        "duration": 124224,
+        "num_views": 7433,
+        "num_likes": 0,
+        "num_comments": 0,
+        "created_date": "2012-01-09",
+        "username": "evitwebmaster",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "42ebd99225e4484ba1e7",
+            "url": "http://bit.ly/15s2WIL",
+            "text": "Moving To Success: Physical Education Assessment ",
+            "title": "Moving To Success: Physical Education Assessment ",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "42ebd99225e4484ba1e7",
+            "url": "https://www.schooltube.com/embed/42ebd99225e4484ba1e7",
+            "text": "Moving To Success: Physical Education Assessment ",
+            "title": "Moving To Success: Physical Education Assessment ",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "42ebd99225e4484ba1e7",
+        "title": "Moving To Success: Physical Education Assessment ",
+        "description": "Moving to Success is a developmental elementary physical education curriculum guide.  The curriculum is developed around the content areas of locomotion, body management, educational games, and educational dance.  The goal is to provide students with developmentally-appropriate experiences that lead to the skills, knowledge, and values of how and why to lead a physically-active lifestyle.  This session will focus on assessment in the physical education class. ",
+        "thumbnail_url": "http://schooltube_encoded.s3.amazonaws.com/thumb/29/08/5d/46/e8/1d/29085d46-e81d-11e2-add9-001c23d1f545_01.jpg",
+        "url": "http://bit.ly/15s2WIL",
+        "embed_url": "https://www.schooltube.com/embed/42ebd99225e4484ba1e7",
+        "duration": 0,
+        "num_views": 760,
+        "num_likes": 0,
+        "num_comments": 0,
+        "created_date": "2013-07-08",
+        "username": "Moving2Success",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "09acac247b6ef3d6d1b6",
+            "url": "http://bit.ly/oZfhdw",
+            "text": "ACTE 2009-2010 Outstanding Career and Technical Educator",
+            "title": "ACTE 2009-2010 Outstanding Career and Technical Educator",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "09acac247b6ef3d6d1b6",
+            "url": "https://www.schooltube.com/embed/09acac247b6ef3d6d1b6",
+            "text": "ACTE 2009-2010 Outstanding Career and Technical Educator",
+            "title": "ACTE 2009-2010 Outstanding Career and Technical Educator",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "09acac247b6ef3d6d1b6",
+        "title": "ACTE 2009-2010 Outstanding Career and Technical Educator",
+        "description": "http://www.acteonline.org/awards.aspx Bea Paul, job developer at Autry Technology Center, talks about her feelings on winning the Association for Career and Technical Education (ACTE) Outstanding Career and Technical Educator Award for 2009-2010. ACTE is a US education association that works to advance career and technical education, formerly known as vocational education, to prepare youth and adults for careers. Produced by Lorne Thomas, Alex Wright, Chelsey Hardey, Anna-Laura Green and Jacob Holloway of Mount Juliet High School, Wilson County Schools, Tennessee.",
+        "thumbnail_url": "http://schooltube-thumbnails.s3.amazonaws.com/21/c2/28/43/7a/0f/21c22843-7a0f-17ef-98eb-603275c4ce0c.jpg",
+        "url": "http://bit.ly/oZfhdw",
+        "embed_url": "https://www.schooltube.com/embed/09acac247b6ef3d6d1b6",
+        "duration": 100,
+        "num_views": 2398,
+        "num_likes": 0,
+        "num_comments": 0,
+        "created_date": "2010-01-28",
+        "username": "ACTEMedia",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "31817736c18540378c53",
+            "url": "http://bit.ly/v6qkFr",
+            "text": "Stand Up for Public Education",
+            "title": "Stand Up for Public Education",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "31817736c18540378c53",
+            "url": "https://www.schooltube.com/embed/31817736c18540378c53",
+            "text": "Stand Up for Public Education",
+            "title": "Stand Up for Public Education",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "31817736c18540378c53",
+        "title": "Stand Up for Public Education",
+        "description": "This year at conference, PSBA is launching \"Stand Up for Public Education.\"  This outreach campaign is our opportunity to share the good news of public education -- the successes, the triumphs and the academic gains our students are making. It will require everyone involved with public education to stand together in the face of unwarranted criticism by those individuals and organizations that would prefer public education just go away. PSBA will share statewide successes but it is imperative for you to share your local story.  The main goal of the \"Stand Up for Public Education\" campaign is to provide board members, superintendents, administrators, teachers, parents and students with the tools they will need to spread the good word.",
+        "thumbnail_url": "http://schooltube-thumbnails.s3.amazonaws.com/a1/1f/dc/80/ff/e6/a11fdc80-ffe6-11e0-9d3d-00188b41f993.jpg",
+        "url": "http://bit.ly/v6qkFr",
+        "embed_url": "https://www.schooltube.com/embed/31817736c18540378c53",
+        "duration": 426627,
+        "num_views": 3432,
+        "num_likes": 1,
+        "num_comments": 0,
+        "created_date": "2011-10-26",
+        "username": "PSBAvideo",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "a1f0a7576286429ea177",
+            "url": "http://bit.ly/MBGuED",
+            "text": "WV Health & Physical Education Teachers - Call Me Maybe",
+            "title": "WV Health & Physical Education Teachers - Call Me Maybe",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "a1f0a7576286429ea177",
+            "url": "https://www.schooltube.com/embed/a1f0a7576286429ea177",
+            "text": "WV Health & Physical Education Teachers - Call Me Maybe",
+            "title": "WV Health & Physical Education Teachers - Call Me Maybe",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "a1f0a7576286429ea177",
+        "title": "WV Health & Physical Education Teachers - Call Me Maybe",
+        "description": "West Virginia Department of Education and Office of Healthy Schools created the Health and Physical Education Leadership Academy to ensure quality health and physical education programs in the state through professional development sessions based on National Association for Sport and Physical Education (NASPE) and American School Health National Standards aligned with the  West Virginia Content Standards and Objectives (CSOs).  Professional development is essential to develop the next generation of leaders in health and physical education.  Four strands are the foundation for the Health and Physical Education Leadership Academy providing training on Standards Based Instruction and Assessment, Advocacy, Grant Writing and Technology. ",
+        "thumbnail_url": "http://schooltube-thumbnails.s3.amazonaws.com/7a/62/5a/88/d4/6f/7a625a88-d46f-11e1-a3e8-001c23dcdfb5.jpg",
+        "url": "http://bit.ly/MBGuED",
+        "embed_url": "https://www.schooltube.com/embed/a1f0a7576286429ea177",
+        "duration": 191359,
+        "num_views": 5463,
+        "num_likes": 19,
+        "num_comments": 0,
+        "created_date": "2012-07-22",
+        "username": "Bridge Street Middle School",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "75738d0b86da4c23b276",
+            "url": "http://bit.ly/1dLFTiM",
+            "text": "What is the Educator Code ? ",
+            "title": "What is the Educator Code ? ",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "75738d0b86da4c23b276",
+            "url": "https://www.schooltube.com/embed/75738d0b86da4c23b276",
+            "text": "What is the Educator Code ? ",
+            "title": "What is the Educator Code ? ",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "75738d0b86da4c23b276",
+        "title": "What is the Educator Code ? ",
+        "description": "This screencast explains the BrainPOP Educators verification code that adds features, such as My BrainPOP and the Mixer, to your BrainPOP Educators account.",
+        "thumbnail_url": "http://schooltube_encoded.s3.amazonaws.com/thumb/cb/bc/02/26/5b/78/cbbc0226-5b78-11e3-9c43-001c23db86b0_01.jpg",
+        "url": "http://bit.ly/1dLFTiM",
+        "embed_url": "https://www.schooltube.com/embed/75738d0b86da4c23b276",
+        "duration": 0,
+        "num_views": 84,
+        "num_likes": 0,
+        "num_comments": 0,
+        "created_date": "2013-12-02",
+        "username": "brainpop",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "5d3065dd21fcb5cecce6",
+            "url": "http://bit.ly/pbM6Yk",
+            "text": "MSEA and Council for Educator Effectiveness leaders on proposed educator evaluation regulations",
+            "title": "MSEA and Council for Educator Effectiveness leaders on proposed educator evaluation regulations",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "5d3065dd21fcb5cecce6",
+            "url": "https://www.schooltube.com/embed/5d3065dd21fcb5cecce6",
+            "text": "MSEA and Council for Educator Effectiveness leaders on proposed educator evaluation regulations",
+            "title": "MSEA and Council for Educator Effectiveness leaders on proposed educator evaluation regulations",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "5d3065dd21fcb5cecce6",
+        "title": "MSEA and Council for Educator Effectiveness leaders on proposed educator evaluation regulations",
+        "description": "On November 8, 2010, MSEA President Clara Floyd; Vice President and Co-Chair of the Council for Educator Effectiveness Betty Weller; President of the Teachers Association of Baltimore County and member of the Council for Educator Effectiveness, Cheryl Bost; and MSEA Executive Director David Helfman testified about the proposed educator evaluation regulations.",
+        "thumbnail_url": "http://schooltube-thumbnails.s3.amazonaws.com/a5/da/ab/a6/ce/a0/a5daaba6-cea0-4773-7213-450eed92ee13.jpg",
+        "url": "http://bit.ly/pbM6Yk",
+        "embed_url": "https://www.schooltube.com/embed/5d3065dd21fcb5cecce6",
+        "duration": 197,
+        "num_views": 541,
+        "num_likes": 0,
+        "num_comments": 0,
+        "created_date": "2011-02-23",
+        "username": "MarylandEducation",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "dbc0852ff0c547ddb985",
+            "url": "http://bit.ly/1gyJhv2",
+            "text": "BrainPOP Educators Overview",
+            "title": "BrainPOP Educators Overview",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "dbc0852ff0c547ddb985",
+            "url": "https://www.schooltube.com/embed/dbc0852ff0c547ddb985",
+            "text": "BrainPOP Educators Overview",
+            "title": "BrainPOP Educators Overview",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "dbc0852ff0c547ddb985",
+        "title": "BrainPOP Educators Overview",
+        "description": "Learn the ins and outs of BrainPOP Educators with this quick tour over some old favorites and updates on what we've been up to, including My BrainPOP and the Mixer.",
+        "thumbnail_url": "http://schooltube_encoded.s3.amazonaws.com/thumb/75/0b/bb/60/5b/7d/750bbb60-5b7d-11e3-b031-001c23d1f545_01.jpg",
+        "url": "http://bit.ly/1gyJhv2",
+        "embed_url": "https://www.schooltube.com/embed/dbc0852ff0c547ddb985",
+        "duration": 0,
+        "num_views": 209,
+        "num_likes": 0,
+        "num_comments": 0,
+        "created_date": "2013-12-02",
+        "username": "brainpop",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "aa8edb21de6f4069b9f5",
+            "url": "http://bit.ly/px5UpV",
+            "text": "PSA: Environmental Education Week 2009",
+            "title": "PSA: Environmental Education Week 2009",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "aa8edb21de6f4069b9f5",
+            "url": "https://www.schooltube.com/embed/aa8edb21de6f4069b9f5",
+            "text": "PSA: Environmental Education Week 2009",
+            "title": "PSA: Environmental Education Week 2009",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "aa8edb21de6f4069b9f5",
+        "title": "PSA: Environmental Education Week 2009",
+        "description": "Environmental Education Week is April 12-18. PSA #1\r\n\r\nHelp spread the word. Post this public service announcement (PSA) video embed code on blogs, websites and social networks (myspace, facebook, livejournal, etc.).\r\n\r\nEE Week is the largest organized environmental education event in the United States that increases the educational impact of Earth Day by creating a full week of educational preparation, learning, and activities in K-12 classrooms, nature centers, zoos, museums, and aquariums. \r\n\r\nNOTE: If you are interested in creating your own eeweek PSA, check out the resources on this blog post on Classroom 2.0: http://www.classroom20.com/profiles/blogs/videobloggingpodcast-project \r\n\r\nMore information and to get involved:\r\nhttp://www.eeweek.org ",
+        "thumbnail_url": "http://schooltube-thumbnails.s3.amazonaws.com/2d/0e/42/43/48/38/2d0e4243-4838-180a-5605-bcbc662f9f3a.jpg",
+        "url": "http://bit.ly/px5UpV",
+        "embed_url": "https://www.schooltube.com/embed/aa8edb21de6f4069b9f5",
+        "duration": 30,
+        "num_views": 4808,
+        "num_likes": 1,
+        "num_comments": 0,
+        "created_date": "2009-03-04",
+        "username": "claughbon",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "eccc679670b0487092ac",
+            "url": "http://bit.ly/nncBth",
+            "text": "PSA: Environmental Education Week 2009 (2)",
+            "title": "PSA: Environmental Education Week 2009 (2)",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "eccc679670b0487092ac",
+            "url": "https://www.schooltube.com/embed/eccc679670b0487092ac",
+            "text": "PSA: Environmental Education Week 2009 (2)",
+            "title": "PSA: Environmental Education Week 2009 (2)",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "eccc679670b0487092ac",
+        "title": "PSA: Environmental Education Week 2009 (2)",
+        "description": "Environmental Education Week is April 12-18. PSA #2\r\n\r\nHelp spread the word. Post this public service announcement (PSA) video embed code on blogs, websites and social networks (myspace, facebook, livejournal, etc.).\r\n\r\nEE Week is the largest organized environmental education event in the United States that increases the educational impact of Earth Day by creating a full week of educational preparation, learning, and activities in K-12 classrooms, nature centers, zoos, museums, and aquariums. \r\n\r\nNOTE: If you are interested in creating your own eeweek PSA, check out the resources on this blog post on Classroom 2.0: http://www.classroom20.com/profiles/blogs/videobloggingpodcast-project\r\n\r\nMore information and to get involved:\r\nhttp://www.eeweek.org",
+        "thumbnail_url": "http://schooltube-thumbnails.s3.amazonaws.com/6c/18/63/b1/e1/65/6c1863b1-e165-a704-da77-659eb059c567.jpg",
+        "url": "http://bit.ly/nncBth",
+        "embed_url": "https://www.schooltube.com/embed/eccc679670b0487092ac",
+        "duration": 30,
+        "num_views": 3834,
+        "num_likes": 0,
+        "num_comments": 0,
+        "created_date": "2009-03-04",
+        "username": "claughbon",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "b8770ea0bec04d58a934",
+            "url": "http://bit.ly/rn9RRz",
+            "text": "PSA: Environmental Education Week 2009 (3)",
+            "title": "PSA: Environmental Education Week 2009 (3)",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "b8770ea0bec04d58a934",
+            "url": "https://www.schooltube.com/embed/b8770ea0bec04d58a934",
+            "text": "PSA: Environmental Education Week 2009 (3)",
+            "title": "PSA: Environmental Education Week 2009 (3)",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "b8770ea0bec04d58a934",
+        "title": "PSA: Environmental Education Week 2009 (3)",
+        "description": "Environmental Education Week is April 12-18. PSA #3\r\n\r\nHelp spread the word. Post this public service announcement (PSA) video embed code on blogs, websites and social networks (myspace, facebook, livejournal, etc.).\r\n\r\nEE Week is the largest organized environmental education event in the United States that increases the educational impact of Earth Day by creating a full week of educational preparation, learning, and activities in K-12 classrooms, nature centers, zoos, museums, and aquariums. \r\n\r\nNOTE: If you are interested in creating your own eeweek PSA, check out the resources on this blog post on Classroom 2.0: http://www.classroom20.com/profiles/blogs/videobloggingpodcast-project\r\n\r\nMore information and to get involved:\r\nhttp://www.eeweek.org ",
+        "thumbnail_url": "http://schooltube-thumbnails.s3.amazonaws.com/5c/dd/ca/af/78/6f/5cddcaaf-786f-d8c1-4a9c-aabe83fb4915.jpg",
+        "url": "http://bit.ly/rn9RRz",
+        "embed_url": "https://www.schooltube.com/embed/b8770ea0bec04d58a934",
+        "duration": 30,
+        "num_views": 3125,
+        "num_likes": 0,
+        "num_comments": 0,
+        "created_date": "2009-03-04",
+        "username": "claughbon",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "757fda2e313548c5a572",
+            "url": "http://bit.ly/q9D61w",
+            "text": "PSA: Environmental Education Week 2009 (4)",
+            "title": "PSA: Environmental Education Week 2009 (4)",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "757fda2e313548c5a572",
+            "url": "https://www.schooltube.com/embed/757fda2e313548c5a572",
+            "text": "PSA: Environmental Education Week 2009 (4)",
+            "title": "PSA: Environmental Education Week 2009 (4)",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "757fda2e313548c5a572",
+        "title": "PSA: Environmental Education Week 2009 (4)",
+        "description": "Environmental Education Week is April 12-18. PSA #1\r\n\r\nHelp spread the word. Post this public service announcement (PSA) video embed code on blogs, websites and social networks (myspace, facebook, livejournal, etc.).\r\n\r\nEE Week is the largest organized environmental education event in the United States that increases the educational impact of Earth Day by creating a full week of educational preparation, learning, and activities in K-12 classrooms, nature centers, zoos, museums, and aquariums. \r\n\r\nNOTE: If you are interested in creating your own eeweek PSA, check out the resources on this blog post on Classroom 2.0: http://www.classroom20.com/profiles/blogs/videobloggingpodcast-project \r\n\r\nMore information and to get involved:\r\nhttp://www.eeweek.org ",
+        "thumbnail_url": "http://schooltube-thumbnails.s3.amazonaws.com/7f/d8/53/cb/48/75/7fd853cb-4875-0b82-91b7-801daea857ba.jpg",
+        "url": "http://bit.ly/q9D61w",
+        "embed_url": "https://www.schooltube.com/embed/757fda2e313548c5a572",
+        "duration": 29,
+        "num_views": 3089,
+        "num_likes": 0,
+        "num_comments": 0,
+        "created_date": "2009-03-04",
+        "username": "claughbon",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "b46c362eeef8c52493c9",
+            "url": "http://bit.ly/oawJm0",
+            "text": "SymbalooEDU Spotlight Educator: Randy Hollinger",
+            "title": "SymbalooEDU Spotlight Educator: Randy Hollinger",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "b46c362eeef8c52493c9",
+            "url": "https://www.schooltube.com/embed/b46c362eeef8c52493c9",
+            "text": "SymbalooEDU Spotlight Educator: Randy Hollinger",
+            "title": "SymbalooEDU Spotlight Educator: Randy Hollinger",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "b46c362eeef8c52493c9",
+        "title": "SymbalooEDU Spotlight Educator: Randy Hollinger",
+        "description": "Randy Hollinger was one of the first educators to meet the radar of Team Symbaloo. By way of a viral video made by one of his 7th grade science students we were able to connect with Randy and learn how Symbaloo was first being used in the classroom. It was due to feedback from educators like Randy that we began to build a special Symbaloo for educators. SymbalooEDU was born less than one year ago and is rapidly growing as the tool of choice for educators looking to help their students organize their online life.",
+        "thumbnail_url": "http://schooltube-thumbnails.s3.amazonaws.com/b4/0b/63/4b/28/6a/b40b634b-286a-b273-e035-057129eb5c0b.jpg",
+        "url": "http://bit.ly/oawJm0",
+        "embed_url": "https://www.schooltube.com/embed/b46c362eeef8c52493c9",
+        "duration": 338,
+        "num_views": 1251,
+        "num_likes": 0,
+        "num_comments": 0,
+        "created_date": "2011-06-24",
+        "username": "SymbalooEDU",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "dd9345d92db56f227e5e",
+            "url": "http://bit.ly/pwzXyt",
+            "text": "Sasheen Phillips, Ohio Board of Education Presentation",
+            "title": "Sasheen Phillips, Ohio Board of Education Presentation",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "dd9345d92db56f227e5e",
+            "url": "https://www.schooltube.com/embed/dd9345d92db56f227e5e",
+            "text": "Sasheen Phillips, Ohio Board of Education Presentation",
+            "title": "Sasheen Phillips, Ohio Board of Education Presentation",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "dd9345d92db56f227e5e",
+        "title": "Sasheen Phillips, Ohio Board of Education Presentation",
+        "description": "Sasheen Phillips, Director of Curriculum and Assessment at the Ohio Board of Education, presents the upcoming changes to the Ohio Education Standards. The presentation took place on 8/25/11 at Jefferson Area High School in Jefferson, Ohio. The Ashtabula County Educational Service Center organized the event.",
+        "thumbnail_url": "http://schooltube-thumbnails.s3.amazonaws.com/d8/9d/f1/7d/d6/49/d89df17d-d649-9ad7-d413-16e3e807691d.jpg",
+        "url": "http://bit.ly/pwzXyt",
+        "embed_url": "https://www.schooltube.com/embed/dd9345d92db56f227e5e",
+        "duration": 3720,
+        "num_views": 1472,
+        "num_likes": 0,
+        "num_comments": 0,
+        "created_date": "2011-08-30",
+        "username": "pymatuningvalley",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "16c722ef367b4a13b885",
+            "url": "http://bit.ly/zOIW7Z",
+            "text": "FANUC Robotics Engineer Jessica Beltran talks Robotics, STEM Education",
+            "title": "FANUC Robotics Engineer Jessica Beltran talks Robotics, STEM Education",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "16c722ef367b4a13b885",
+            "url": "https://www.schooltube.com/embed/16c722ef367b4a13b885",
+            "text": "FANUC Robotics Engineer Jessica Beltran talks Robotics, STEM Education",
+            "title": "FANUC Robotics Engineer Jessica Beltran talks Robotics, STEM Education",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "16c722ef367b4a13b885",
+        "title": "FANUC Robotics Engineer Jessica Beltran talks Robotics, STEM Education",
+        "description": "Jessica Beltran, an engineer at FANUC Robotics, talks about how she got into robotic engineering and the importance of STEM education.",
+        "thumbnail_url": "http://schooltube-thumbnails.s3.amazonaws.com/0a/c9/dd/46/56/56/0ac9dd46-5656-11e1-ada0-00188b41f993.jpg",
+        "url": "http://bit.ly/zOIW7Z",
+        "embed_url": "https://www.schooltube.com/embed/16c722ef367b4a13b885",
+        "duration": 189890,
+        "num_views": 918,
+        "num_likes": 0,
+        "num_comments": 0,
+        "created_date": "2012-02-13",
+        "username": "cert",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "c919295aa5034f9fbea5",
+            "url": "http://bit.ly/zmepdY",
+            "text": "Gifted Education Week Proclamation Signing",
+            "title": "Gifted Education Week Proclamation Signing",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "c919295aa5034f9fbea5",
+            "url": "https://www.schooltube.com/embed/c919295aa5034f9fbea5",
+            "text": "Gifted Education Week Proclamation Signing",
+            "title": "Gifted Education Week Proclamation Signing",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "c919295aa5034f9fbea5",
+        "title": "Gifted Education Week Proclamation Signing",
+        "description": "February 19-25, 2012 is Gifted Education Week in the Knox County Public Schools (KY).   Students, educators, and higher education representatives signed a proclamation on February 16 declaring the week \"Gifted Education Week\" in the school district.",
+        "thumbnail_url": "http://schooltube-thumbnails.s3.amazonaws.com/a2/ef/66/10/5a/50/a2ef6610-5a50-11e1-b3ed-00188b41f993.jpg",
+        "url": "http://bit.ly/zmepdY",
+        "embed_url": "https://www.schooltube.com/embed/c919295aa5034f9fbea5",
+        "duration": 531048,
+        "num_views": 612,
+        "num_likes": 0,
+        "num_comments": 0,
+        "created_date": "2012-02-18",
+        "username": "knoxkyschools",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "1cf0bc75e6a3456d8b4f",
+            "url": "http://bit.ly/Jzav4N",
+            "text": "Celebrating Educators 2012:  Linde Cobb",
+            "title": "Celebrating Educators 2012:  Linde Cobb",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "1cf0bc75e6a3456d8b4f",
+            "url": "https://www.schooltube.com/embed/1cf0bc75e6a3456d8b4f",
+            "text": "Celebrating Educators 2012:  Linde Cobb",
+            "title": "Celebrating Educators 2012:  Linde Cobb",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "1cf0bc75e6a3456d8b4f",
+        "title": "Celebrating Educators 2012:  Linde Cobb",
+        "description": "Meet Linde Cobb, an Administrative Assistant to the Board of Education in Alvord Unified School District, the 2012 Riverside County Confidential Employee of the Year.",
+        "thumbnail_url": "http://schooltube-thumbnails.s3.amazonaws.com/8c/dc/d1/4a/99/e9/8cdcd14a-99e9-11e1-b50c-001c23dcdfb5.jpg",
+        "url": "http://bit.ly/Jzav4N",
+        "embed_url": "https://www.schooltube.com/embed/1cf0bc75e6a3456d8b4f",
+        "duration": 118952,
+        "num_views": 253,
+        "num_likes": 0,
+        "num_comments": 0,
+        "created_date": "2012-05-09",
+        "username": "RCOETV",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "ab84a5c1b26f41a7a49c",
+            "url": "http://bit.ly/V6B7Dy",
+            "text": "Character Education that works – Student Interviews",
+            "title": "Character Education that works – Student Interviews",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "ab84a5c1b26f41a7a49c",
+            "url": "https://www.schooltube.com/embed/ab84a5c1b26f41a7a49c",
+            "text": "Character Education that works – Student Interviews",
+            "title": "Character Education that works – Student Interviews",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "ab84a5c1b26f41a7a49c",
+        "title": "Character Education that works – Student Interviews",
+        "description": "Character Education that works – Student Interviews Children (K-5) talk about what they learn in Character Education class.  In class they sing songs, talk about their feelings and what choices to make in real-life experiences.  Students want to do the talking, they want to do the sharing, and they want to analyze the life skills they have learned in class.  Once you get them taking about Character Education, its hands off – that is when you, as the teacher, listen and learn.  Directed by Harold B. Pritchett, Character Education Teacher.",
+        "thumbnail_url": "http://schooltube-thumbnails.s3.amazonaws.com/cf/c8/a8/2c/a6/d1/cfc8a82c-a6d1-11e1-a179-001c23db86b0.jpg",
+        "url": "http://bit.ly/V6B7Dy",
+        "embed_url": "https://www.schooltube.com/embed/ab84a5c1b26f41a7a49c",
+        "duration": 531382,
+        "num_views": 2035,
+        "num_likes": 0,
+        "num_comments": 0,
+        "created_date": "2012-05-25",
+        "username": "hbpy2k",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "d4aa50b8243f41da85ee",
+            "url": "http://bit.ly/113q01w",
+            "text": "New Carolina's The Future of Education in South Carolina: Hunter Bliss, Lexington High School Senior and Travis Allen, Founder and CEO, iSchool Initiative",
+            "title": "New Carolina's The Future of Education in South Carolina: Hunter Bliss, Lexington High School Senior and Travis Allen, Founder and CEO, iSchool Initiative",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "d4aa50b8243f41da85ee",
+            "url": "https://www.schooltube.com/embed/d4aa50b8243f41da85ee",
+            "text": "New Carolina's The Future of Education in South Carolina: Hunter Bliss, Lexington High School Senior and Travis Allen, Founder and CEO, iSchool Initiative",
+            "title": "New Carolina's The Future of Education in South Carolina: Hunter Bliss, Lexington High School Senior and Travis Allen, Founder and CEO, iSchool Initiative",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "d4aa50b8243f41da85ee",
+        "title": "New Carolina's The Future of Education in South Carolina: Hunter Bliss, Lexington High School Senior and Travis Allen, Founder and CEO, iSchool Initiative",
+        "description": "New Carolina's The Future of Education in South Carolina: Hunter Bliss, Lexington High School Senior and Travis Allen, Founder and CEO, iSchool Initiative\r\n\r\nHunter Bliss, a senior at Lexington High School and winner of our Technology and Education video contest discusses his vision for how technology can change education in the classroom and beyond. \r\n\r\nTravis, Founder and CEO of the iSchool Initiative, talks about his journey with technology and education and how the idea for iSchool was born. Travis has traveled the glob with the iSchool Initiative, worked with hundreds of schools in more than 25 states, and the US Department of Education. Additionally, through The iSchool Initiative, he consults with schools on how to integrate technology into the classroom and learning environment in a successful way. ",
+        "thumbnail_url": "http://schooltube_encoded.s3.amazonaws.com/thumb/dd/5f/3d/fa/b4/1a/dd5f3dfa-b41a-11e2-bcf0-001c23d1f545_01.jpg",
+        "url": "http://bit.ly/113q01w",
+        "embed_url": "https://www.schooltube.com/embed/d4aa50b8243f41da85ee",
+        "duration": 0,
+        "num_views": 502,
+        "num_likes": 0,
+        "num_comments": 0,
+        "created_date": "2013-05-03",
+        "username": "eocacct",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "53aee87628744f728d7b",
+            "url": "http://bit.ly/150vGWd",
+            "text": "Video in the Classroom - Educators Advice",
+            "title": "Video in the Classroom - Educators Advice",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "53aee87628744f728d7b",
+            "url": "https://www.schooltube.com/embed/53aee87628744f728d7b",
+            "text": "Video in the Classroom - Educators Advice",
+            "title": "Video in the Classroom - Educators Advice",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "53aee87628744f728d7b",
+        "title": "Video in the Classroom - Educators Advice",
+        "description": "Educators all over the world are allowing their students the opportunity to create videos to show comprehension of their subject matter. The ease and accessibility of mobile devices has allowed for this educational paradigm shift. In this video, teachers from a variety of subjects offer their advice to other educators on why to incorporate video into the classroom.",
+        "thumbnail_url": "http://schooltube_encoded.s3.amazonaws.com/thumb/30/ad/55/42/1e/eb/30ad5542-1eeb-11e3-88da-001c23dcdfb5_07.jpg",
+        "url": "http://bit.ly/150vGWd",
+        "embed_url": "https://www.schooltube.com/embed/53aee87628744f728d7b",
+        "duration": 0,
+        "num_views": 252,
+        "num_likes": 0,
+        "num_comments": 0,
+        "created_date": "2013-09-16",
+        "username": "dgoble",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "7806a64525bc4a238873",
+            "url": "http://bit.ly/150xezt",
+            "text": "Video in the Classroom - Educator Success Stories ",
+            "title": "Video in the Classroom - Educator Success Stories ",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "7806a64525bc4a238873",
+            "url": "https://www.schooltube.com/embed/7806a64525bc4a238873",
+            "text": "Video in the Classroom - Educator Success Stories ",
+            "title": "Video in the Classroom - Educator Success Stories ",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "7806a64525bc4a238873",
+        "title": "Video in the Classroom - Educator Success Stories ",
+        "description": "Educators all over the world are allowing their students the opportunity to create videos to show comprehension of their subject matter. The ease and accessibility of mobile devices has allowed for this educational paradigm shift. \r\n\r\nIn this video, teachers from a variety of subjects offer their success stories to other educators on why to incorporate video into the classroom.",
+        "thumbnail_url": "http://schooltube_encoded.s3.amazonaws.com/thumb/3d/e8/72/40/1e/ec/3de87240-1eec-11e3-adbe-001c23db86b0_01.jpg",
+        "url": "http://bit.ly/150xezt",
+        "embed_url": "https://www.schooltube.com/embed/7806a64525bc4a238873",
+        "duration": 0,
+        "num_views": 459,
+        "num_likes": 0,
+        "num_comments": 0,
+        "created_date": "2013-09-16",
+        "username": "dgoble",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "86f9d1ada03940d2a4a3",
+            "url": "http://bit.ly/150xvSY",
+            "text": "Video in the Classroom - Educators Experience",
+            "title": "Video in the Classroom - Educators Experience",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "86f9d1ada03940d2a4a3",
+            "url": "https://www.schooltube.com/embed/86f9d1ada03940d2a4a3",
+            "text": "Video in the Classroom - Educators Experience",
+            "title": "Video in the Classroom - Educators Experience",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "86f9d1ada03940d2a4a3",
+        "title": "Video in the Classroom - Educators Experience",
+        "description": "Educators all over the world are allowing their students the opportunity to create videos to show comprehension of their subject matter. The ease and accessibility of mobile devices has allowed for this educational paradigm shift. \r\n\r\nIn this video, teachers from a variety of subjects offer their experience using student videos to other educators on why to incorporate video into the classroom.",
+        "thumbnail_url": "http://schooltube_encoded.s3.amazonaws.com/thumb/94/7b/e6/ae/1e/ed/947be6ae-1eed-11e3-9ff5-001c23d1f545_01.jpg",
+        "url": "http://bit.ly/150xvSY",
+        "embed_url": "https://www.schooltube.com/embed/86f9d1ada03940d2a4a3",
+        "duration": 0,
+        "num_views": 330,
+        "num_likes": 0,
+        "num_comments": 0,
+        "created_date": "2013-09-16",
+        "username": "dgoble",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "1f251874659e680e491b",
+            "url": "http://bit.ly/nf2ykr",
+            "text": "Army Education Podcast - Education Partners",
+            "title": "Army Education Podcast - Education Partners",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "1f251874659e680e491b",
+            "url": "https://www.schooltube.com/embed/1f251874659e680e491b",
+            "text": "Army Education Podcast - Education Partners",
+            "title": "Army Education Podcast - Education Partners",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "1f251874659e680e491b",
+        "title": "Army Education Podcast - Education Partners",
+        "description": "Army education podcast highlighting education partnerships",
+        "thumbnail_url": "http://schooltube-thumbnails.s3.amazonaws.com/fb/7e/7b/89/6d/91/fb7e7b89-6d91-2e9d-fcb2-c16d991ef740.jpg",
+        "url": "http://bit.ly/nf2ykr",
+        "embed_url": "https://www.schooltube.com/embed/1f251874659e680e491b",
+        "duration": 127,
+        "num_views": 999,
+        "num_likes": 0,
+        "num_comments": 0,
+        "created_date": "2010-10-06",
+        "username": "armyed",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "return_types": [
+          {
+            "driver": "schooltube",
+            "remote_id": "8e6d1efc652c472faa6c",
+            "url": "http://bit.ly/1bnWtll",
+            "text": "General Education and Special Education Co-Teaching in Saint Paul Public Schools",
+            "title": "General Education and Special Education Co-Teaching in Saint Paul Public Schools",
+            "return_type": "url"
+          },
+          {
+            "driver": "schooltube",
+            "remote_id": "8e6d1efc652c472faa6c",
+            "url": "https://www.schooltube.com/embed/8e6d1efc652c472faa6c",
+            "text": "General Education and Special Education Co-Teaching in Saint Paul Public Schools",
+            "title": "General Education and Special Education Co-Teaching in Saint Paul Public Schools",
+            "width": 640,
+            "height": 360,
+            "return_type": "iframe"
+          }
+        ],
+        "kind": "video",
+        "id": "8e6d1efc652c472faa6c",
+        "title": "General Education and Special Education Co-Teaching in Saint Paul Public Schools",
+        "description": "General Education and Special Education Co-Teaching in Saint Paul Public Schools",
+        "thumbnail_url": "http://schooltube_encoded.s3.amazonaws.com/thumb/43/b6/dd/ea/5e/bd/43b6ddea-5ebd-11e3-84ed-001c23d1f545_06.jpg",
+        "url": "http://bit.ly/1bnWtll",
+        "embed_url": "https://www.schooltube.com/embed/8e6d1efc652c472faa6c",
+        "duration": 0,
+        "num_views": 76146,
+        "num_likes": 0,
+        "num_comments": 0,
+        "created_date": "2013-12-06",
+        "username": "sppstv",
+        "width": 640,
+        "height": 360
+      }
+    ]
+  }
+}

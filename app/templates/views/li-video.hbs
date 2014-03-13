@@ -1,0 +1,34 @@
+{{#with view}}
+  <div class="video data media-body">
+    <div class="row">
+      <div class="col-xs-4">
+        {{#link-to detailsRoute item}}
+          <img {{bind-attr src=item.thumbnailUrl}} class="media-object thumbnail thumbnail_med_wide">
+        {{/link-to}}
+      </div>
+      <div class="col-xs-8">
+        <div class="row">
+          <div class="col-xs-8">
+            <h2 class="title clearfix">
+              {{#link-to detailsRoute item classNames="pull-left"}}{{item.title}}{{/link-to}}
+            </h2>
+          </div>
+          <div class="col-xs-4 text-right">
+            {{embed-btn-dropdown action="embedItem" item=item}}
+          </div>
+        </div>
+        <p class="meta">
+          from <span class="username">{{item.username}}</span> /
+          Added <time>{{item.addedTimeAgo}}</time> /
+          <span class="dur">{{seconds-to-time item.duration}}</span>
+        </p>
+        <p class="count">
+          <span class="plays">{{item.numViews}} Plays</span> /
+          <span class="likes">{{item.numLikes}} Likes</span> /
+          <span class="comments">{{item.numComments}} Comments</span>
+        </p>
+        <p class="description">{{truncate-text item.description 150}}</p>
+      </div>
+    </div>
+  </div>
+{{/with}}

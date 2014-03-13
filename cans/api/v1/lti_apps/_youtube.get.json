@@ -1,0 +1,11 @@
+{
+  "lti_app": {
+    "id": "youtube",
+    "name": "YouTube",
+    "description": "Search publicly available YouTube videos. A new icon will show up in your course rich editor letting you search YouTube and click to embed videos in your course material.",
+    "tool_id": "youtube",
+    "tool_type": "search",
+    "icon_path": "youtube_icon.png",
+    "image_url": "youtube_banner.png"
+  }
+}

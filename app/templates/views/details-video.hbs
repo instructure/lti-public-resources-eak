@@ -1,0 +1,26 @@
+<div class="above-link">
+  <div class="pull-right" style="padding-top: 5px;">{{embed-btn-dropdown action="embedItem" item=this}}</div>
+  <a href="#" {{action "goUpFolder"}} class="back_button">&laquo; browse</a>
+</div>
+
+<div class="lti-video-embed">
+  <div class="flex-video widescreen clearfix">
+    {{{embedHtml}}}
+  </div>
+  <div class="video data">
+    <h2 class="title">
+      <span class="faux_link">{{title}}</span>
+    </h2>
+    <div class="duration">{{seconds-to-time duration}}</div>
+    <p class="meta">
+      from <span class="username">{{username}}</span> /
+      Added <time>{{addedTimeAgo}}</time>
+    </p>
+    <p class="count">
+      <span class="plays">{{numViews}} Plays</span> /
+      <span class="likes">{{numLikes}} Likes</span> /
+      <span class="comments">{{numComments}} Comments</span>
+    </p>
+    <p class="description">{{description}}</p>
+  </div>
+</div>

@@ -1,0 +1,20 @@
+{{#with view}}
+  <div class="video data media-body">
+    <h2 class="title clearfix">
+      {{#link-to detailsRoute item classNames="pull-left"}}{{item.title}}{{/link-to}}
+    </h2>
+    <div class="duration">{{item.termCount}} terms</div>
+    <p class="meta">
+      {{#if username}}
+        created by <span class="username">{{item.username}}</span> /
+      {{/if}}
+      Added <time>{{item.createdDate}}</time>
+    </p>
+    <p class="count">
+      {{#each subject in item.subjects}}
+        <span class="label label-default">{{subject}}</span>
+      {{/each}}
+    </p>
+    <p class="description">{{truncate-text item.description 200}}</p>
+  </div>
+{{/with}}

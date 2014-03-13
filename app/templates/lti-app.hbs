@@ -1,0 +1,21 @@
+<div {{bind-attr class=toolId}}>
+  {{outlet}}
+
+  <div id="embed-modal" class="modal fade">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+          <h4 class="modal-title">Resource Selected</h4>
+        </div>
+        <div class="modal-body">
+          <p>You're not in a system that supports auto-inserting content, so you'll need to copy and past the following code by hand in order to insert it into your content.</p>
+          {{textarea class="form-control" rows="5" value=returnType.embedCode}}
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+  </div><!-- /.modal -->
+</div>

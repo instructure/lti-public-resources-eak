@@ -1,0 +1,91 @@
+.flex-video {
+  position: relative;
+  padding-top: 25px;
+  padding-bottom: 67.5%;
+  height: 0;
+  margin-bottom: 16px;
+  overflow: hidden;
+  background: #fff url(/images/loading.png) 50% 50% no-repeat;
+  &.widescreen { padding-bottom: 57.25%; }
+  &.vimeo { padding-top: 0; }
+  iframe, object, embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.video {
+  &.data {
+    position: relative;
+
+    .duration {
+      position: absolute;
+      top: 4px;
+      right: 0px;
+      padding: 1px 1px 0;
+      background-color: #f3f4f4;
+      border: 1px solid #e6e7e8;
+      font-weight: 400;
+      text-transform: uppercase;
+      text-shadow: 1px 1px rgba(255,255,255,.5);
+      font-size: 11px;
+      line-height: 11px;
+      white-space: nowrap;
+      -webkit-border-radius: 2px;
+      -moz-border-radius: 2px;
+      -o-border-radius: 2px;
+      -ms-border-radius: 2px;
+      border-radius: 2px;
+      vertical-align: text-bottom;
+      color: #9da2a8;
+    }
+  }
+
+  .title {
+    font-size: 16px;
+    line-height: 1.2;
+    margin: 0px;
+  }
+  .meta {
+    font-size: 11px;
+    line-height: 1;
+    color: #9da2a8;
+    margin-top: 5px;
+
+    a {
+      font-weight: 400;
+    }
+    .dur {
+      
+    }
+  }
+
+  .count {
+    margin-top: 8px;
+    color: #cdd4db;
+    font-size: 11px;
+    line-height: 1;
+  }
+
+  .count .plays {
+    color: #6c9;
+  }
+  .count .likes {
+    color: #fc575e;
+  }
+  .count .comments {
+    color: #4bf;
+  }
+  .description {
+    margin: 6px 0 3px;
+    line-height: 18px;
+    overflow: hidden;
+  }
+  .username {
+    font-weight: 700;
+    color: #123;
+  }
+}

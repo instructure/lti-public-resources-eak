@@ -1,0 +1,24 @@
+{
+  "name": "ember-app-kit",
+  "dependencies": {
+    "handlebars": "~1.1.2",
+    "jquery": "~1.9.1",
+    "qunit": "~1.12.0",
+    "ember-qunit": "git@github.com:cavneb/ember-qunit.git#module-for-model",
+    "ember": "~1.4.0",
+    "ember-data": "~1.0.0-beta.7",
+    "ember-resolver": "git://github.com/stefanpenner/ember-jj-abrams-resolver.git#master",
+    "ic-ajax": "~0.3.0",
+    "jquery-mockjax": "~1.5.3",
+    "sinon": "http://sinonjs.org/releases/sinon-1.9.0.js",
+    "bootstrap-flatly": "http://netdna.bootstrapcdn.com/bootswatch/3.1.1/flatly/bootstrap.min.css",
+    "bootstrap-js": "http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js",
+    "jquery-simulate": "https://raw.github.com/jquery/jquery-simulate/master/jquery.simulate.js",
+    "spin": "http://fgnass.github.io/spin.js/spin.min.js",
+    "momentjs": "~2.5.1",
+    "components-font-awesome": "~4.0.3"
+  },
+  "resolutions": {
+    "ember": "~1.4.0"
+  }
+}

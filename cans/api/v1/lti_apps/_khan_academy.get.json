@@ -1,0 +1,11 @@
+{
+  "lti_app": {
+    "id": "khan_academy",
+    "name": "Khan Academy",
+    "description": "Search for and embed Khan Academy lessons and exercise into course material. Khan Academy focuses on short lessons on math, science, etc. Uses the embedded player so students earn points for watching videos.",
+    "tool_id": "khan_academy",
+    "tool_type": "browse",
+    "icon_path": "khan_academy_icon.png",
+    "image_url": "khan_academy_banner.png"
+  }
+}

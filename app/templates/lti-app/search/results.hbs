@@ -1,0 +1,27 @@
+{{#if showDashboard}}
+  <div class="above-link">
+    {{#link-to "lti-apps"}}&laquo; dashboard{{/link-to}}
+  </div>
+{{/if}}
+
+{{#if isLoaded}}
+  <ul>
+    {{#each mediaItem in model}}
+      {{view 'li-item' item=mediaItem detailsRoute='lti-app.search.details'}}
+    {{/each}}
+  </ul>
+
+  <div class="load-more">
+    {{#if nextCriteria}}
+      {{#if loadingMore}}
+        {{ic-spinner}}
+      {{else}}
+        <a href="#" {{action "getMore"}} rel="load-more">load more results</a>
+      {{/if}}
+    {{else}}
+      Found {{length}} results
+    {{/if}}
+  </div>
+{{else}}
+  {{ic-spinner}}
+{{/if}}

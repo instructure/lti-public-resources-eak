@@ -1,0 +1,23 @@
+<div id="tool-default" class="lti-search">
+  <header class="fixed clearfix">
+    <form class="form-search">
+      {{input type="search" classNames="form-control search" value=searchText placeholder="Filter Apps ..."}}
+    </form>
+  </header>
+</div>
+<div class="below-search-bar">
+  <ul class="list media-list">
+    {{#each filteredApps}}
+      <li class="media list-item">
+        {{#link-to 'lti-app' this class="pull-left"}}
+          <img {{bind-attr src=imageSrc alt=title}} class="media-object thumbnail thumbnail_med_wide">
+        {{/link-to}}
+        <div class="video data media-body">
+          <h4 class="media-heading">{{#link-to 'lti-app' this rel=name}}{{name}}{{/link-to}}</h4>
+          <div class="duration">{{toolType}}</div>
+          <p class="description">{{description}}</p>
+        </div>
+      </li>
+    {{/each}}
+  </ul>
+</div>

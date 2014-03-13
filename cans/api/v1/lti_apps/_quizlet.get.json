@@ -1,0 +1,11 @@
+{
+  "lti_app": {
+    "id": "quizlet",
+    "name": "Quizlet",
+    "description": "Search for and embed publicly available flashcards and question sets from Quizlet. Questions can be embedded directly into content as flash cards, review, or as a study game.",
+    "tool_id": "quizlet",
+    "tool_type": "search",
+    "icon_path": "quizlet_icon.png",
+    "image_url": "quizlet_banner.png"
+  }
+}

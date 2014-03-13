@@ -1,0 +1,11 @@
+<div id="tool-default" class="lti-search">
+  <header class="fixed clearfix">
+    <form class="form-search" {{action "performSearch" on="submit"}}>
+      {{input type="search" id="search" classNames="form-control search" value=searchText placeholder="Search ..." autofocus="autofocus"}}
+    </form>
+  </header>
+
+  <div class="below-search-bar">
+    {{outlet}}
+  </div>
+</div>
